@@ -10,8 +10,8 @@ Made by **C** code.
   -> git: https://github.com/saulwiggin/Numerical-Recipies-in-C.git
 
 **Useage**  
-1. Compile the code used by "compile.sh".
-2. Make a runfile "run.sh" used by "makerun.awk".
+1. Compile the code used by "compile.sh"
+2. Make a runfile "run.sh" used by "makerun.awk"
      
    - Awk file executing process.
      ```
@@ -21,4 +21,4 @@ Made by **C** code.
      ```
      awk -f makerun.awk
      ```   
-3. Execute the "run.sh".
+3. Execute the "run.sh"
