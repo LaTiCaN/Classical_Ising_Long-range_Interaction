@@ -17,7 +17,7 @@ Made by **C** code.
      ```
      awk -f makerun.awk -> run.sh
      ```
-   - If you want a check the makerun.awk file give correct command
+   - If you want a check that the makerun.awk file give correct command.
      ```
      awk -f makerun.awk
      ```   
