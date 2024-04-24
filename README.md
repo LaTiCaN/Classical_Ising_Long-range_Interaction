@@ -13,7 +13,7 @@ Made by **C** code.
 
 **Useage**  
 1. Compile the code used by "compile.sh"  
-2. If you want to check controll parameter, use basic running file
+2. If you want to check controll parameter, running the basic running file
    ```
    ./test
    ```
