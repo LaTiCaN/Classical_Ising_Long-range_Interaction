@@ -11,7 +11,8 @@ Made by **C** code.
 
 **Useage**  
 1. Execute the compile.sh
-2. Make a runfile (run.sh) used by makerun.awk  
+2. Make a runfile (run.sh) used by makerun.awk
+     
    Awk file executing process
    ```
    awk -f makerun.awk -> run.sh
