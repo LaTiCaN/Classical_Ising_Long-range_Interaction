@@ -2,4 +2,4 @@
 ## Code
 Last edit -2024.03.31-  
 Made by C code.  
-Compiler : gcc
+\bf{Compiler : gcc}
