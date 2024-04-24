@@ -6,5 +6,9 @@ Made by **C** code.
   
 **Used external library :**  
 - dSFMT (Double precision SIMD-oriented Fast Mersenne Twister) http://www.math.sci.hiroshima-u.ac.jp/m-mat/MT/SFMT/#dSFMT  
-- NRinC (Numerical-Recipies-in-C) https://github.com/saulwiggin/Numerical-Recipies-in-C \n
+- NRinC (Numerical-Recipies-in-C) https://github.com/saulwiggin/Numerical-Recipies-in-C  
   -> git: https://github.com/saulwiggin/Numerical-Recipies-in-C.git
+
+**Useage**  
+1. Execute the Compile.h
+2. Make 
