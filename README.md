@@ -13,7 +13,7 @@ Made by **C** code.
 
 **Useage**  
 1. Compile the code used by "compile.sh"  
-2. If you want to check controll parameter, running the basic running file
+2. If you want to check controll parameter, run the basic running file "test" after the compiling.
    ```
    ./test
    ```
@@ -27,4 +27,4 @@ Made by **C** code.
      ```
      awk -f makerun.awk
      ```   
-4.  the "run.sh"
+4.  Execute the "run.sh"
