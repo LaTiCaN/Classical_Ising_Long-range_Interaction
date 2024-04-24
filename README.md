@@ -11,13 +11,13 @@ Made by **C** code.
 
 **Useage**  
 1. Execute the compile.sh
-2. Make a runfile (run.sh) used by makerun.awk
+2. Make a runfile "run.sh" used by "makerun.awk"
      
    - Awk file executing process
      ```
      awk -f makerun.awk -> run.sh
      ```
-   - If you want a check that the makerun.awk file give correct command.
+   - If you want a check that the "makerun.awk" file give correct command.
      ```
      awk -f makerun.awk
      ```   
