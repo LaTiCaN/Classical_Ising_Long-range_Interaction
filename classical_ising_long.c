@@ -111,7 +111,7 @@ int main(int argc, char **argv) {
 			eng /= 2;
 			//E = eng / L;
 			E = fabs(eng); //for avoiding double counting problem
-    			M /= L;
+    		M /= L;
     		
 			Esum += E;
 			E2sum += E * E;
